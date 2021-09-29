@@ -1,6 +1,10 @@
 ### Here is What I'am working on 👋
 
  I like to coding
+ 
+ .Net Core
+ GoLang
+ 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=enisgurkann&show_icons=true&theme=onedark&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=enisgurkann&show_icons=true&theme=onedark&count_private=true"
     alt="Enis Gurkan's GitHub Stats"
