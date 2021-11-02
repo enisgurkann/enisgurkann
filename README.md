@@ -1,6 +1,6 @@
 ### Here is What I'am working on 👋
 
- I like to coding
+ I like coding
  
  .Net Core
  GoLang
